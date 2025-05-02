@@ -1,7 +1,7 @@
 # Kaggle-Project
 ![](UTA-DataScience-Logo.png)
 
-# Metastatic TNBC
+# Metastatic Cancer Diagnosis
 
 * **One Sentence Summary** This repository contains a machine learning pipeline to predict whether a patient received a metastatic cancer diagnosis based on demographic and health-related features.
 
